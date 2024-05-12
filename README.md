@@ -1,2 +1,2 @@
 # noir-artwork
-Artwork for all official Noir swag
+Artwork for [Noir](https://github.com/noir-cr/noir)
